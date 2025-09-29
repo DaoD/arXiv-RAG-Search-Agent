@@ -10,4 +10,3 @@ For papers with known acceptance status, I tag the corresponding conference or j
 - [PRIME: Planning and Retrieval-Integrated Memory for Enhanced Reasoning](https://arxiv.org/abs/2509.22315), Hieu Tran, Zonghai Yao, Nguyen Luong Tran, Zhichao Yang, Feiyun Ouyang, Shuo Han, Razieh Rahimi, Hong Yu.
 - [HetaRAG: Hybrid Deep Retrieval-Augmented Generation across Heterogeneous Data Stores](https://arxiv.org/abs/2509.21336), Guohang Yan, Yue Zhang, Pinlong Cai, Ding Wang, Song Mao, Hongwei Zhang, Yaoze Zhang, Hairong Zhang, Xinyu Cai, Botian Shi.
 - [LABELING COPILOT: A Deep Research Agent for Automated Data Curation in Computer Vision](https://arxiv.org/abs/2509.22631), Debargha Ganguly, Sumit Kumar, Ishwar Balappanawar, Weicong Chen, Shashank Kambhatla, Srinivasan Iyengar, Shivkumar Kalyanaraman, Ponnurangam Kumaraguru, Vipin Chaudhary.
-- 
