@@ -3,7 +3,7 @@ This repository collects daily updates of papers on RAG (Retrieval-Augmented Gen
 
 For papers with known acceptance status, I tag the corresponding conference or journal. Contributions are welcome — feel free to add missing papers or update acceptance information!
 
-## 2025-9-29
+### 2025-9-29
 - [GraphSearch: An Agentic Deep Searching Workflow for Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2509.22009), Cehao Yang, Xiaojun Wu, Xueyuan Lin, Chengjin Xu, Xuhui Jiang, Yuanliang Sun, Jia Li, Hui Xiong, Jian Guo.
 - [Influence Guided Context Selection for Effective Retrieval-Augmented Generation](https://arxiv.org/abs/2509.21359), Jiale Deng, Yanyan Shen, Ziyuan Pei, Youmin Chen, Linpeng Huang. NeurIPS 2025.
 - [Can Synthetic Query Rewrites Capture User Intent Better than Humans in Retrieval-Augmented Generation?](https://arxiv.org/abs/2509.22325), JiaYing Zheng, HaiNan Zhang, Liang Pang, YongXin Tong, ZhiMing Zheng.
