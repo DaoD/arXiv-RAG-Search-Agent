@@ -3,6 +3,14 @@ This repository collects daily updates of papers on RAG (Retrieval-Augmented Gen
 
 For papers with known acceptance status, I tag the corresponding conference or journal. Contributions are welcome — feel free to add missing papers or update acceptance information!
 
+### 2025-9-30
+- [InfoAgent: Advancing Autonomous Information-Seeking Agents](https://arxiv.org/abs/2509.25189), Gongrui Zhang, Jialiang Zhu, Ruiqi Yang, Kai Qiu, Miaosen Zhang, Zhirong Wu, Qi Dai, Bei Liu, Chong Luo, Zhengyuan Yang, Linjie Li, Lijuan Wang, Weizhu Chen, Yuan Zhang, Xin Li, Zhaoyi Liu, Xin Geng, Baining Guo.
+- [Towards Personalized Deep Research: Benchmarks and Evaluations](https://arxiv.org/abs/2509.25106), Yuan Liang, Jiaxian Li, Yuqing Wang, Piaohong Wang, Motong Tian, Pai Liu, Shuofei Qiao, Runnan Fang, He Zhu, Ge Zhang, Minghao Liu, Yuchen Eleanor Jiang, Ningyu Zhang, Wangchunshu Zhou.
+- [MRAG-Suite: A Diagnostic Evaluation Platform for Visual Retrieval-Augmented Generation](https://arxiv.org/abs/2509.24253), Yuelyu Ji.
+- [Retrieval-augmented GUI Agents with Generative Guidelines](https://arxiv.org/abs/2509.24183), Ran Xu, Kaixin Ma, Wenhao Yu, Hongming Zhang, Joyce C. Ho, Carl Yang, Dong Yu.
+- [From Evidence to Trajectory: Abductive Reasoning Path Synthesis for Training Retrieval-Augmented Generation Agents](https://arxiv.org/abs/2509.23071), Muzhi Li, Jinhu Qi, Yihong Wu, Minghao Zhao, Liheng Ma, Yifan Li, Xinyu Wang, Yingxue Zhang, Ho-fung Leung, Irwin King.
+- [RAR2: Retrieval-Augmented Medical Reasoning via Thought-Driven Retrieval](https://arxiv.org/abs/2509.22713), Kaishuai Xu, Wenjun Hou, Yi Cheng, Wenjie Li.
+
 ### 2025-9-29
 - [GraphSearch: An Agentic Deep Searching Workflow for Graph Retrieval-Augmented Generation](https://arxiv.org/abs/2509.22009), Cehao Yang, Xiaojun Wu, Xueyuan Lin, Chengjin Xu, Xuhui Jiang, Yuanliang Sun, Jia Li, Hui Xiong, Jian Guo.
 - [Influence Guided Context Selection for Effective Retrieval-Augmented Generation](https://arxiv.org/abs/2509.21359), Jiale Deng, Yanyan Shen, Ziyuan Pei, Youmin Chen, Linpeng Huang. NeurIPS 2025.
