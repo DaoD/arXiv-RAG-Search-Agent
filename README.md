@@ -1,4 +1,4 @@
-<img width="432" height="52" alt="image" src="https://github.com/user-attachments/assets/cd8dae20-c57b-4a4a-ab74-4f7f4637e12f" /># arXiv-RAG-Search-Agent
+# arXiv-RAG-Search-Agent
 This repository collects daily updates of papers on RAG (Retrieval-Augmented Generation) and search agents published on arXiv. The list is refreshed every day and archived monthly - trust me :)
 
 For papers with known acceptance status, I tag the corresponding conference or journal. Contributions are welcome — feel free to add missing papers or update acceptance information!
