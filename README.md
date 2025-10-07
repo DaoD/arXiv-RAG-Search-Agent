@@ -3,6 +3,10 @@ This repository collects daily updates of papers on RAG (Retrieval-Augmented Gen
 
 For papers with known acceptance status, I tag the corresponding conference or journal. Contributions are welcome — feel free to add missing papers or update acceptance information!
 
+### 2025-10-7
+- [Equipping Retrieval-Augmented Large Language Models with Document Structure Awareness](https://arxiv.org/abs/2510.04293), Lingnan Xu, Chong Feng, Kaiyuan Zhang, Liu Zhengyong, Wenqiang Xu, Fanqing Meng. EMNLP 2025 Findings.
+- [Retrieval-Augmented Code Generation: A Survey with Focus on Repository-Level Approaches](https://arxiv.org/abs/2510.04905), Yicheng Tao, Yao Qin, Yepang Liu.
+
 ### 2025-10-6
 - [FocusAgent: Simple Yet Effective Ways of Trimming the Large Context of Web Agents](https://arxiv.org/abs/2510.03204), Imene Kerboua, Sahar Omidi Shayegan, Megh Thakkar, Xing Han Lù, Léo Boisvert, Massimo Caccia, Jérémy Espinas, Alexandre Aussem, Véronique Eglin, Alexandre Lacoste.
 - [Knowledge-Graph Based RAG System Evaluation Framework](https://arxiv.org/abs/2510.02549), Sicheng Dong, Vahid Zolfaghari, Nenad Petrovic, Alois Knoll.
