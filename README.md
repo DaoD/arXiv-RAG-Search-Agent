@@ -3,6 +3,15 @@ This repository collects daily updates of papers on RAG (Retrieval-Augmented Gen
 
 For papers with known acceptance status, I tag the corresponding conference or journal. Contributions are welcome — feel free to add missing papers or update acceptance information!
 
+### 2025-10-8
+- [DecEx-RAG: Boosting Agentic Retrieval-Augmented Generation with Decision and Execution Optimization via Process Supervision](https://arxiv.org/abs/2510.05691), Yongqi Leng, Yikun Lei, Xikai Liu, Meizhi Zhong, Bojian Xiong, Yurong Zhang, Yan Gao, Yi Wu, Yao Hu, Deyi Xiong.
+- [WeatherArchive-Bench: Benchmarking Retrieval-Augmented Reasoning for Historical Weather Archives](https://arxiv.org/abs/2510.05336), Yongan Yu, Xianda Du, Qingchen Hu, Jiahao Liang, Jingwei Ni, Dan Qiang, Kaiyu Huang, Grant McKenzie, Renee Sieber, Fengran Mo.
+- [RAG Makes Guardrails Unsafe? Investigating Robustness of Guardrails under RAG-style Contexts](https://arxiv.org/abs/2510.05310), Yining She, Daniel W. Peterson, Marianne Menglin Liu, Vikas Upadhyay, Mohammad Hossein Chaghazardi, Eunsuk Kang, Dan Roth.
+- [Demystifying deep search: a holistic evaluation with hint-free multi-hop questions and factorised metrics](https://arxiv.org/abs/2510.05137), Maojia Song, Renhang Liu, Xinyu Wang, Yong Jiang, Pengjun Xie, Fei Huang, Soujanya Poria, Jingren Zhou.
+- [Rationale-Augmented Retrieval with Constrained LLM Re-Ranking for Task Discovery](https://arxiv.org/abs/2510.05131), Bowen Wei.
+- [Stratified GRPO: Handling Structural Heterogeneity in Reinforcement Learning of LLM Search Agents](https://arxiv.org/abs/2510.06214), Mingkang Zhu, Xi Chen, Bei Yu, Hengshuang Zhao, Jiaya Jia.
+- [Deterministic Legal Retrieval: An Action API for Querying the SAT-Graph RAG](https://arxiv.org/abs/2510.06002), Hudson de Martim.
+
 ### 2025-10-7
 - [Equipping Retrieval-Augmented Large Language Models with Document Structure Awareness](https://arxiv.org/abs/2510.04293), Lingnan Xu, Chong Feng, Kaiyuan Zhang, Liu Zhengyong, Wenqiang Xu, Fanqing Meng. EMNLP 2025 Findings.
 - [Retrieval-Augmented Code Generation: A Survey with Focus on Repository-Level Approaches](https://arxiv.org/abs/2510.04905), Yicheng Tao, Yao Qin, Yepang Liu.
