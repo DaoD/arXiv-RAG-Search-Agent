@@ -3,6 +3,12 @@ This repository collects daily updates of papers on RAG (Retrieval-Augmented Gen
 
 For papers with known acceptance status, I tag the corresponding conference or journal. Contributions are welcome — feel free to add missing papers or update acceptance information!
 
+### 2025-10-10
+- [STEPER: Step-wise Knowledge Distillation for Enhancing Reasoning Ability in Multi-Step Retrieval-Augmented Language Models](https://arxiv.org/abs/2510.07923), Kyumin Lee, Minjin Jeon, Sanghwan Jang, Hwanjo Yu.
+- [HiPRAG: Hierarchical Process Rewards for Efficient Agentic Retrieval Augmented Generation](https://arxiv.org/abs/2510.07794), Peilin Wu, Mian Zhang, Kun Wan, Wentian Zhao, Kaiyu He, Xinya Du, Zhiyu Chen.
+- [SUBQRAG: sub-question driven dynamic graph rag](https://arxiv.org/abs/2510.07718), Jiaoyang Li, Junhao Ruan, Shengwei Tang, Saihan Chen, Kaiyan Chang, Yuan Ge, Tong Xiao, Jingbo Zhu.
+- [Who Stole Your Data? A Method for Detecting Unauthorized RAG Theft](https://arxiv.org/abs/2510.07728), Peiyang Liu, Ziqiang Cui, Di Liang, Wei Ye.
+
 ### 2025-10-9
 - [LAD-RAG: Layout-aware Dynamic RAG for Visually-Rich Document Understanding](https://arxiv.org/abs/2510.07233), Zhivar Sourati, Zheng Wang, Marianne Menglin Liu, Yazhe Hu, Mengqing Guo, Sujeeth Bharadwaj, Kyu Han, Tao Sheng, Sujith Ravi, Morteza Dehghani, Dan Roth.
 - [Towards Reliable Retrieval in RAG Systems for Large Legal Datasets](https://arxiv.org/abs/2510.06999), Markus Reuter, Tobias Lingenberg, Rūta Liepiņa, Francesca Lagioia, Marco Lippi, Giovanni Sartor, Andrea Passerini, Burcu Sayin.
